@@ -1,3 +1,3 @@
 # Instance-Segmentation-obj-tracking-yolov8
 
-This repository is a demo level to do instance segmentation and object tracking using yolov8 .
+This repository serves as a demo for performing instance segmentation and object tracking using YOLOv8.
